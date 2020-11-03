@@ -4,7 +4,7 @@ In this game you will find your mario falling on hot surface and you have to use
 
 ## Here is a screenshot of the game:
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot .png)
 
 **You can download an .exe file from our [releases](https://github.com/naffydharni006/Simple-Mario/releases)**
 
